@@ -1,0 +1,22 @@
+{
+  "name": "sample-through2",
+  "version": "1.0.0",
+  "description": "Assignment2 uses through2 so this sample program should help.",
+  "main": "test-through2.js",
+  "scripts": {
+    "test": "node test-through2.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Spoorthya/sample-through2.git"
+  },
+  "keywords": [
+    "through2"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Spoorthya/sample-through2/issues"
+  },
+  "homepage": "https://github.com/Spoorthya/sample-through2#readme"
+}
